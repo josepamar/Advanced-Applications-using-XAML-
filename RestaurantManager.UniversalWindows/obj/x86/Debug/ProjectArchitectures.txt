@@ -1,0 +1,2 @@
+C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.Models\RestaurantManager.Models.csproj;neutral
+C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86
