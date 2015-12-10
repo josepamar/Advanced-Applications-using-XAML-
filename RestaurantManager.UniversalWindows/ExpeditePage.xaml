@@ -7,6 +7,13 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="ResourceStyles.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
     <Page.DataContext>
         <models:ExpediteDataManager />
     </Page.DataContext>
@@ -25,8 +32,29 @@
             <RowDefinition Height="0.85*"/>
             <RowDefinition Height="0.10*"/>
         </Grid.RowDefinitions>
-        <GridView Grid.Row="1" ItemsSource="{Binding OrderItems}">
-        </GridView>
+        <ListBox Grid.Row="1" ItemsSource="{Binding OrderItems}">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Width="Auto" Height="Auto"></StackPanel>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Background="DarkGray"  MinHeight="160">
+                        <StackPanel Orientation="Vertical" Width="Auto">
+                            <ListView Style="{StaticResource ListStyle}" ItemsSource="{Binding Items}" />
+                            <TextBlock Margin="5">
+                                <Run Text="{Binding Table}" FontSize="20" FontWeight="Medium" />
+                            </TextBlock>
+                            <TextBlock Margin="10">
+                                <Run Text="{Binding SpecialRequests}" FontSize="11" />
+                            </TextBlock>
+                            <Button Content="Delete" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="Auto" Height="Auto" FontSize="12"/>
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
         <Button Content="Clear All Orders" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" />
     </Grid>
 </Page>

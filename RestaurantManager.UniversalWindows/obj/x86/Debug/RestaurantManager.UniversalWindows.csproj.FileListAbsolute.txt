@@ -872,10 +872,14 @@ C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\o
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.UniversalWindows.xr.xml
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\WinMetadata\Windows.winmd
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\resources.pri
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\ResourceStyles.xbf
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\obj\x86\Debug\ResourceStyles.xaml
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\obj\x86\Debug\ResourceStyles.xbf
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\bin\x86\Debug\App.xbf
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\bin\x86\Debug\ExpeditePage.xbf
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\bin\x86\Debug\MainPage.xbf
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\bin\x86\Debug\OrderPage.xbf
+C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\bin\x86\Debug\ResourceStyles.xbf
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.UniversalWindows.xr.xml
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.UniversalWindows.exe
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.UniversalWindows.pdb
@@ -1120,10 +1124,12 @@ C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManag
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\ExpeditePage.xaml
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\MainPage.xaml
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\OrderPage.xaml
+C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\ResourceStyles.xaml
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\App.xbf
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\ExpeditePage.xbf
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\MainPage.xbf
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\OrderPage.xbf
+C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\ResourceStyles.xbf
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\XamlSaveStateFile.xml
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\RestaurantManager.UniversalWindows.exe
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\RestaurantManager.UniversalWindows.pdb
@@ -1193,6 +1199,9 @@ C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManag
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.UniversalWindows.exe
+C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.UniversalWindows.pdb
+C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.Models.pdb
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Microsoft.CSharp.dll
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\System.Core.dll
@@ -1296,6 +1305,7 @@ C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManag
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\System.Xml.XDocument.dll
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\System.Xml.XmlDocument.dll
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\System.Xml.XmlSerializer.dll
+C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.Models.dll
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\LargeSquareLogo.png
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\SmallSquareLogo.png
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\SplashScreen.png
@@ -1304,8 +1314,4 @@ C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManag
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.UniversalWindows.xr.xml
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\WinMetadata\Windows.winmd
-C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.UniversalWindows.exe
-C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.UniversalWindows.pdb
-C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.Models.pdb
-C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.Models.dll
 C:\Users\Jose\Documents\GitHub\Advanced-Applications-using-XAML-\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\resources.pri

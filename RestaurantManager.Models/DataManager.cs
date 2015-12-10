@@ -6,7 +6,8 @@ namespace RestaurantManager.Models
     public abstract class DataManager : INotifyPropertyChanged
     {
         protected RestaurantContext Repository { get; private set; }
-        
+
+
         //INotifyPropertyChanged
         public event PropertyChangedEventHandler PropertyChanged;
 
@@ -18,13 +19,11 @@ namespace RestaurantManager.Models
             }
         }
 
-        //Constructor
+        //
         public DataManager()
         {
             LoadData();
         }
-
-        //
         private async void LoadData()
         {
             this.Repository = new RestaurantContext();
