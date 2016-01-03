@@ -6,6 +6,7 @@
     xmlns:models="using:RestaurantManager.Models"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:extensions="using:Extensions"
     mc:Ignorable="d">
     <Page.Resources>
         <ResourceDictionary>
@@ -41,16 +42,25 @@
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <Grid Background="DarkGray"  MinHeight="160">
-                        <StackPanel Orientation="Vertical" Width="Auto">
-                            <ListView Style="{StaticResource ListStyle}" ItemsSource="{Binding Items}" />
-                            <TextBlock Margin="5">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <ListView  Style="{StaticResource ListStyle}" ItemsSource="{Binding Items}" />
+                        <TextBlock Grid.Row="1" Margin="5">
                                 <Run Text="{Binding Table}" FontSize="20" FontWeight="Medium" />
                             </TextBlock>
-                            <TextBlock Margin="10">
+                        <TextBlock Grid.Row="2" Margin="10">
                                 <Run Text="{Binding SpecialRequests}" FontSize="11" />
                             </TextBlock>
-                            <Button Content="Delete" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="Auto" Height="Auto" FontSize="12"/>
-                        </StackPanel>
+                        <Rectangle Grid.Row="3">
+                            <Rectangle.Fill>
+                                <SolidColorBrush Color="{Binding Expedite, Converter={StaticResource BoolToColorConverterx}}" />
+                            </Rectangle.Fill>
+                        </Rectangle>
+                        <Button Grid.Row="3" Content="Delete" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="Auto" Height="Auto" FontSize="12" />
                     </Grid>
                 </DataTemplate>
             </ListBox.ItemTemplate>

@@ -18,7 +18,6 @@ C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.dll
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pdb
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pri
-C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.dll
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.pdb
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\obj\Debug\priconfig.xml
