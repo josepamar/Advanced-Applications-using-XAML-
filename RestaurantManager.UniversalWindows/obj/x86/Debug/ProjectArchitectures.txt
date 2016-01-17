@@ -1,3 +1,6 @@
 C:\Users\Jose\Documents\cursos\XAML\hwstart\Extensions\Extensions.csproj;neutral
+C:\Users\Jose\Documents\cursos\XAML\hwstart\Extensions\Extensions.csproj;neutral
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\RestaurantManager.Models.csproj;neutral
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\RestaurantManager.Models.csproj;neutral
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.ViewModels\RestaurantManager.ViewModels.csproj;neutral

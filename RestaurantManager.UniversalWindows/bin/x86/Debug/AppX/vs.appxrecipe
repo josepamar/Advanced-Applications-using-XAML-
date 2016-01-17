@@ -22,7 +22,7 @@
     <AppXManifest Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-01-03T18:40:41.615</Modified>
+      <Modified>2016-01-17T13:22:08.762</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -49,11 +49,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\entrypoint\RestaurantManager.UniversalWindows.exe">
       <PackagePath>entrypoint\RestaurantManager.UniversalWindows.exe</PackagePath>
-      <Modified>2015-12-29T19:28:45.942</Modified>
+      <Modified>2016-01-17T13:22:05.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Extensions.dll">
       <PackagePath>Extensions.dll</PackagePath>
-      <Modified>2015-12-28T20:23:34.800</Modified>
+      <Modified>2016-01-15T11:46:32.047</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Extensions\Properties\Extensions.rd.xml">
       <PackagePath>Extensions\Properties\Extensions.rd.xml</PackagePath>
@@ -85,11 +85,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-01-03T18:40:39.230</Modified>
+      <Modified>2016-01-17T13:22:06.644</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models.dll">
       <PackagePath>RestaurantManager.Models.dll</PackagePath>
-      <Modified>2015-12-28T20:23:34.799</Modified>
+      <Modified>2016-01-13T21:22:24.778</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml">
       <PackagePath>RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml</PackagePath>
@@ -97,11 +97,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.exe">
       <PackagePath>RestaurantManager.UniversalWindows.exe</PackagePath>
-      <Modified>2016-01-03T18:40:41.611</Modified>
+      <Modified>2016-01-17T13:22:08.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.xr.xml">
       <PackagePath>RestaurantManager.UniversalWindows.xr.xml</PackagePath>
-      <Modified>2015-12-29T19:28:45.773</Modified>
+      <Modified>2016-01-15T20:39:44.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.ViewModels.dll">
+      <PackagePath>RestaurantManager.ViewModels.dll</PackagePath>
+      <Modified>2016-01-17T13:22:02.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.ViewModels\Properties\RestaurantManager.ViewModels.rd.xml">
+      <PackagePath>RestaurantManager.ViewModels\Properties\RestaurantManager.ViewModels.rd.xml</PackagePath>
+      <Modified>2016-01-13T20:32:55.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>

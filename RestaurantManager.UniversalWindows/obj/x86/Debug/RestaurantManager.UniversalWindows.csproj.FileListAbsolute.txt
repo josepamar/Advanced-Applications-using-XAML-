@@ -890,3 +890,12 @@ C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\o
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Microsoft.Xaml.Interactivity.dll
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Extensions.dll
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Extensions\Properties\Extensions.rd.xml
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.ViewModels.dll
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.ViewModels.pdb
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.ViewModels\Properties\RestaurantManager.ViewModels.rd.xml
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.ViewModels.dll
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.ViewModels.pdb
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.ViewModels.pri
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.ViewModels.pdb
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.ViewModels.dll
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.ViewModels\Properties\RestaurantManager.ViewModels.rd.xml

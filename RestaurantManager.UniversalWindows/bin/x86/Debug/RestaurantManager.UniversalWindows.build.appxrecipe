@@ -76,6 +76,12 @@
     <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.xr.xml">
       <PackagePath>RestaurantManager.UniversalWindows.xr.xml</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.ViewModels.dll">
+      <PackagePath>RestaurantManager.ViewModels.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.ViewModels\Properties\RestaurantManager.ViewModels.rd.xml">
+      <PackagePath>RestaurantManager.ViewModels\Properties\RestaurantManager.ViewModels.rd.xml</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
     </AppxPackagedFile>

@@ -31,3 +31,4 @@ C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\obj\Debug\p
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\obj\Debug\qualifiers.txt
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\obj\Debug\qualifiers.txt.intermediate
 C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jose\Documents\cursos\XAML\hwstart\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
